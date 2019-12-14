@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+    
+}
+nav {
+
+    background-image: linear-gradient(35deg, #FFAECC, #FFB6C9);
+    background-blend-mode: overlay;
+    border-radius: 5px;
+    display: inline-flex;
+    flex-direction: column;
+    position: sticky;
+    width: 15%;
+    height: 100vh;
+    padding: 10px;
+}
+
+#logo-sml {
+    border-radius: 50%;
+    width: 80%;
+    height: auto;
+}
+
+main {
+    display: inline-flex;
+}
+.test {
+    border: solid #FFB6C9 3px;
+    display: inline-flex;
+   }
