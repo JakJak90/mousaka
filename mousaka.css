@@ -30,13 +30,13 @@ nav {
 
 main {
     display: grid;
-    grid-template-rows: 432px 1fr;
+    grid-template-rows: 40vh 1fr;
     align-items: center;
     justify-items: center;
   }
 .jumbo {
     display: grid;
-    grid-template-columns: 2fr 4fr;
+    grid-template-columns: 15vw 50vw;
     border: solid #FFB6C9 3px;
     width: 65vw;
     height: 75%;
