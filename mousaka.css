@@ -35,5 +35,13 @@ main {
     justify-items: center;
   }
 .jumbo {
+    display: grid;
+    grid-template-columns: 2fr 4fr;
     border: solid #FFB6C9 3px;
-   }
+    width: 65vw;
+    height: 75%;
+    }
+    .jumboInner {
+        padding: 0px;
+        margin: 0px;
+    }
