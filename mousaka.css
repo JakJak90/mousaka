@@ -45,3 +45,11 @@ main {
         padding: 0px;
         margin: 0px;
     }
+
+    #logo-lrg {
+        /*border-radius: 50%;*/
+        width: 98%;
+        height: auto;
+        max-height: 100%;
+        display: flex;
+        align-self: center;
